@@ -65,7 +65,9 @@ body {
   padding: 10px;
   position: relative;
 }
-
+.music {
+	display: none;
+}
 .text-box p {
   margin: 0;
   text-align: left;
